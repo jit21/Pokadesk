@@ -1,0 +1,23 @@
+.PokamonList-wrapper{
+    margin: 2rem auto;
+    text-align: center;
+}
+.pokamon-wrapper{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.control button{
+
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+
+}
